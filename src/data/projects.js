@@ -4,7 +4,7 @@ export const projects = [
       description:
         "قاعدة بيانات متكاملة مع تطبيق ويب وموبايل لنظام حجز وإدارة المعالجات المجانية في كلية طب الأسنان.",
       tech: ["React", "Express.js", "Flutter", "Database"],
-      github: "https://github.com/mahmoodasanITE/toothyBack.git",
+      github: "https://github.com/mahmodasanITE/toothyBack.git",
       featured: true,
       category: "fullstack",
       challenge: "مزامنة الحجوزات بين تطبيق الموبايل ولوحة الويب بشكل لحظي",
